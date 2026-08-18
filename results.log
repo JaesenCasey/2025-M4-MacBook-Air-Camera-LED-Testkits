@@ -1,0 +1,99 @@
+duration=500ms trial=1 objc[6660]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=551.609992980957
+RESULT capture=false elapsed_ms=1059.30495262146 requested_ms=500.0
+
+led_seen=y
+duration=500ms trial=2 objc[6668]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=35.09092330932617
+RESULT capture=false elapsed_ms=559.2449903488159 requested_ms=500.0
+
+led_seen=y
+duration=500ms trial=3 objc[6672]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=33.26904773712158
+RESULT capture=false elapsed_ms=553.7800788879395 requested_ms=500.0
+
+led_seen=y
+duration=500ms trial=4 objc[6676]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=56.19394779205322
+RESULT capture=false elapsed_ms=573.8359689712524 requested_ms=500.0
+
+led_seen=y
+duration=500ms trial=5 objc[6680]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=32.89997577667236
+RESULT capture=false elapsed_ms=557.1740865707397 requested_ms=500.0
+
+led_seen=y
+duration=200ms trial=1 objc[6684]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=57.991981506347656
+RESULT capture=false elapsed_ms=265.11597633361816 requested_ms=200.0
+
+led_seen=y
+duration=200ms trial=2 objc[6686]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=35.86304187774658
+RESULT capture=false elapsed_ms=241.13798141479492 requested_ms=200.0
+
+led_seen=y
+duration=200ms trial=3 objc[6688]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=53.791046142578125
+RESULT capture=false elapsed_ms=263.19098472595215 requested_ms=200.0
+
+led_seen=y
+duration=200ms trial=4 objc[6690]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=54.97395992279053
+RESULT capture=false elapsed_ms=260.37096977233887 requested_ms=200.0
+
+led_seen=y
+duration=200ms trial=5 objc[6695]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=37.4600887298584
+RESULT capture=false elapsed_ms=244.44007873535156 requested_ms=200.0
+
+led_seen=y
+duration=100ms trial=1 objc[6697]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=55.9389591217041
+RESULT capture=false elapsed_ms=161.06700897216797 requested_ms=100.0
+
+led_seen=y
+duration=100ms trial=2 objc[6699]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=37.61899471282959
+RESULT capture=false elapsed_ms=142.4250602722168 requested_ms=100.0
+
+led_seen=y
+duration=100ms trial=3 objc[6701]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=57.14106559753418
+RESULT capture=false elapsed_ms=159.19804573059082 requested_ms=100.0
+
+led_seen=y
+duration=100ms trial=4 objc[6703]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=38.89107704162598
+RESULT capture=false elapsed_ms=140.14708995819092 requested_ms=100.0
+
+led_seen=y
+duration=100ms trial=5 objc[6713]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=39.108991622924805
+RESULT capture=false elapsed_ms=143.2950496673584 requested_ms=100.0
+
+led_seen=y
+duration=50ms trial=1 objc[6715]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=38.462042808532715
+RESULT capture=false elapsed_ms=92.50807762145996 requested_ms=50.0
+
+led_seen=y
+duration=50ms trial=2 objc[6724]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=51.65398120880127
+RESULT capture=false elapsed_ms=102.88596153259277 requested_ms=50.0
+
+led_seen=y
+duration=50ms trial=3 objc[6726]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=38.52403163909912
+RESULT capture=false elapsed_ms=90.86406230926514 requested_ms=50.0
+
+led_seen=y
+duration=50ms trial=4 objc[6729]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=37.60099411010742
+RESULT capture=false elapsed_ms=92.4609899520874 requested_ms=50.0
+
+led_seen=y
+duration=50ms trial=5 objc[6731]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=52.633047103881836
+RESULT capture=false elapsed_ms=105.62002658843994 requested_ms=50.0
+

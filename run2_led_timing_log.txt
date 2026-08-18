@@ -1,0 +1,87 @@
+using device: MacBook Air Camera
+=== LED timing test run 2026-08-18 08:54:16 +0000 ===
+calibrationTrials=8 trialsPerDuration=5 durations=[100.0, 200.0, 300.0, 500.0] prefix=run2
+=== warm-up phase: 3 cycles ===
+warmup cycle 1 took 367.66302585601807ms total
+warmup cycle 2 took 218.2919979095459ms total
+warmup cycle 3 took 219.6129560470581ms total
+=== calibration phase: 8 trials ===
+calibration trial 1: press Enter NOW
+calibration trial 1: reaction_ms=816.4359331130981
+calibration trial 2: press Enter NOW
+calibration trial 2: reaction_ms=449.2529630661011
+calibration trial 3: press Enter NOW
+calibration trial 3: reaction_ms=312.5009536743164
+calibration trial 4: press Enter NOW
+calibration trial 4: reaction_ms=270.0110673904419
+calibration trial 5: press Enter NOW
+calibration trial 5: reaction_ms=295.20106315612793
+calibration trial 6: press Enter NOW
+calibration trial 6: reaction_ms=354.22396659851074
+calibration trial 7: press Enter NOW
+calibration trial 7: reaction_ms=718.2290554046631
+calibration trial 8: press Enter NOW
+calibration trial 8: reaction_ms=366.6529655456543
+calibration baseline (avg reaction time) = 447.8134959936142ms
+=== test phase ===
+trial 1: duration_requested_ms=100.0 stop_called_at_offset_ms=122.28500843048096
+trial 1: press Enter the INSTANT you see the LED go off
+trial 1: raw_ms=3340.7599925994873 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2892.946496605873
+trial 2: duration_requested_ms=100.0 stop_called_at_offset_ms=119.16792392730713
+trial 2: press Enter the INSTANT you see the LED go off
+trial 2: raw_ms=3218.1509733200073 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2770.337477326393
+trial 3: duration_requested_ms=100.0 stop_called_at_offset_ms=118.98410320281982
+trial 3: press Enter the INSTANT you see the LED go off
+trial 3: raw_ms=3223.138928413391 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2775.325432419777
+trial 4: duration_requested_ms=100.0 stop_called_at_offset_ms=117.69294738769531
+trial 4: press Enter the INSTANT you see the LED go off
+trial 4: raw_ms=3211.6479873657227 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2763.8344913721085
+trial 5: duration_requested_ms=100.0 stop_called_at_offset_ms=121.75595760345459
+trial 5: press Enter the INSTANT you see the LED go off
+trial 5: raw_ms=2073.07505607605 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=1625.2615600824356
+trial 6: duration_requested_ms=200.0 stop_called_at_offset_ms=219.35510635375977
+trial 6: press Enter the INSTANT you see the LED go off
+trial 6: raw_ms=3111.3719940185547 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2663.5584980249405
+trial 7: duration_requested_ms=200.0 stop_called_at_offset_ms=217.95403957366943
+trial 7: press Enter the INSTANT you see the LED go off
+trial 7: raw_ms=3093.088984489441 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2645.2754884958267
+trial 8: duration_requested_ms=200.0 stop_called_at_offset_ms=218.8359498977661
+trial 8: press Enter the INSTANT you see the LED go off
+trial 8: raw_ms=3104.575991630554 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2656.76249563694
+trial 9: duration_requested_ms=200.0 stop_called_at_offset_ms=222.39601612091064
+trial 9: press Enter the INSTANT you see the LED go off
+trial 9: raw_ms=2866.0589456558228 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2418.2454496622086
+trial 10: duration_requested_ms=200.0 stop_called_at_offset_ms=220.29900550842285
+trial 10: press Enter the INSTANT you see the LED go off
+trial 10: raw_ms=3116.6059970855713 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2668.792501091957
+trial 11: duration_requested_ms=300.0 stop_called_at_offset_ms=323.25100898742676
+trial 11: press Enter the INSTANT you see the LED go off
+trial 11: raw_ms=2972.377061843872 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2524.563565850258
+trial 12: duration_requested_ms=300.0 stop_called_at_offset_ms=322.5799798965454
+trial 12: press Enter the INSTANT you see the LED go off
+trial 12: raw_ms=2589.7730588912964 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2141.959562897682
+trial 13: duration_requested_ms=300.0 stop_called_at_offset_ms=324.881911277771
+trial 13: press Enter the INSTANT you see the LED go off
+trial 13: raw_ms=3008.199095726013 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2560.385599732399
+trial 14: duration_requested_ms=300.0 stop_called_at_offset_ms=323.5130310058594
+trial 14: press Enter the INSTANT you see the LED go off
+trial 14: raw_ms=3011.354923248291 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2563.541427254677
+trial 15: duration_requested_ms=300.0 stop_called_at_offset_ms=320.82903385162354
+trial 15: press Enter the INSTANT you see the LED go off
+trial 15: raw_ms=2997.4759817123413 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2549.662485718727
+trial 16: duration_requested_ms=500.0 stop_called_at_offset_ms=550.3048896789551
+trial 16: press Enter the INSTANT you see the LED go off
+trial 16: raw_ms=2785.4539155960083 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2337.640419602394
+trial 17: duration_requested_ms=500.0 stop_called_at_offset_ms=523.1469869613647
+trial 17: press Enter the INSTANT you see the LED go off
+trial 17: raw_ms=2660.5180501937866 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2212.7045542001724
+trial 18: duration_requested_ms=500.0 stop_called_at_offset_ms=524.2689847946167
+trial 18: press Enter the INSTANT you see the LED go off
+trial 18: raw_ms=2383.4789991378784 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=1935.6655031442642
+trial 19: duration_requested_ms=500.0 stop_called_at_offset_ms=528.3799171447754
+trial 19: press Enter the INSTANT you see the LED go off
+trial 19: raw_ms=2821.563959121704 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2373.75046312809
+trial 20: duration_requested_ms=500.0 stop_called_at_offset_ms=519.2240476608276
+trial 20: press Enter the INSTANT you see the LED go off
+trial 20: raw_ms=2900.2820253372192 baseline_ms=447.8134959936142 adjusted_led_off_latency_ms=2452.468529343605
+=== test complete ===

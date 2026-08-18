@@ -1,0 +1,44 @@
+using device: MacBook Air Camera
+=== warm-start test run 2026-08-18 08:19:23 +0000 ===
+iterations=8 skipFrames=5 pauseSeconds=3.0
+iteration 1: startRunning() call returned after 65.49406051635742ms
+iteration 1: RESULT capture=true elapsed_ms=731.5280437469482 path=session2_iter1.jpg
+iteration 1: stopRunning() call took 22.638916969299316ms
+--- pausing 3.0s before next iteration ---
+iteration 1 -> pause_observation=unsure
+iteration 2: startRunning() call returned after 12.295007705688477ms
+iteration 2: RESULT capture=true elapsed_ms=672.7100610733032 path=session2_iter2.jpg
+iteration 2: stopRunning() call took 16.854047775268555ms
+--- pausing 3.0s before next iteration ---
+iteration 2 -> pause_observation=off
+iteration 3: startRunning() call returned after 11.642932891845703ms
+iteration 3: RESULT capture=true elapsed_ms=687.3369216918945 path=session2_iter3.jpg
+iteration 3: stopRunning() call took 16.700029373168945ms
+--- pausing 3.0s before next iteration ---
+iteration 3 -> pause_observation=led remains on after printing question, turns off in the process of printing question, remains off until *this* input is collected (enter is pressed)
+iteration 4: startRunning() call returned after 10.732054710388184ms
+iteration 4: RESULT capture=true elapsed_ms=677.3200035095215 path=session2_iter4.jpg
+iteration 4: stopRunning() call took 16.983985900878906ms
+--- pausing 3.0s before next iteration ---
+iteration 4 -> pause_observation=off, led turned off around the exact time I saw the above message, "Type: off / on / ..." print to the console
+iteration 5: startRunning() call returned after 11.94000244140625ms
+iteration 5: RESULT capture=true elapsed_ms=681.6960573196411 path=session2_iter5.jpg
+iteration 5: stopRunning() call took 19.155025482177734ms
+--- pausing 3.0s before next iteration ---
+iteration 5 -> pause_observation=off, again, camera led turned off, actually, just before the above line printed to the console
+iteration 6: startRunning() call returned after 13.068914413452148ms
+iteration 6: RESULT capture=true elapsed_ms=686.8200302124023 path=session2_iter6.jpg
+iteration 6: stopRunning() call took 16.517996788024902ms
+--- pausing 3.0s before next iteration ---
+iteration 6 -> pause_observation=same as before
+iteration 7: startRunning() call returned after 13.064026832580566ms
+iteration 7: RESULT capture=true elapsed_ms=688.0439519882202 path=session2_iter7.jpg
+iteration 7: stopRunning() call took 15.809059143066406ms
+--- pausing 3.0s before next iteration ---
+iteration 7 -> pause_observation=same as before, led always persists until ju
+iteration 8: startRunning() call returned after 10.254979133605957ms
+iteration 8: RESULT capture=true elapsed_ms=688.6390447616577 path=session2_iter8.jpg
+iteration 8: stopRunning() call took 15.303969383239746ms
+--- pausing 3.0s before next iteration ---
+iteration 8 -> pause_observation=led persists until just before this asking question. unsure if intended, or a result of a hardware demand on the led display time
+=== test complete ===

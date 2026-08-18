@@ -1,0 +1,47 @@
+=== binary search run Tue Aug 18 03:25:03 EDT 2026 ===
+duration=500ms objc[6833]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=63.464999198913574
+RESULT capture=false elapsed_ms=566.8840408325195 requested_ms=500.0
+
+led_seen=y
+duration=250ms objc[6840]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=31.034111976623535
+RESULT capture=false elapsed_ms=292.3771142959595 requested_ms=250.0
+
+led_seen=y
+duration=125ms objc[6847]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=30.58302402496338
+RESULT capture=false elapsed_ms=161.63992881774902 requested_ms=125.0
+
+led_seen=y
+duration=62ms objc[6854]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=31.12804889678955
+RESULT capture=false elapsed_ms=95.25704383850098 requested_ms=62.0
+
+led_seen=y
+duration=31ms objc[6859]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=29.1670560836792
+RESULT capture=false elapsed_ms=62.92605400085449 requested_ms=31.0
+
+led_seen=y
+duration=15ms objc[6864]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=30.681967735290527
+RESULT capture=false elapsed_ms=47.827959060668945 requested_ms=15.0
+
+led_seen=y
+duration=7ms objc[6869]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=32.5469970703125
+RESULT capture=false elapsed_ms=41.46397113800049 requested_ms=7.0
+
+led_seen=y
+duration=3ms objc[6874]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=31.13400936126709
+RESULT capture=false elapsed_ms=35.19701957702637 requested_ms=3.0
+
+led_seen=y
+duration=1ms objc[6879]: class `NSKVONotifying_AVCapturePhotoOutput' not linked into application
+session_start_offset_ms=28.69093418121338
+RESULT capture=false elapsed_ms=30.821919441223145 requested_ms=1.0
+
+led_seen=y
+reached sub-1ms with no miss — floor may be below script resolution
